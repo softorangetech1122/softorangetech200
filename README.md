@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm SoftOrange Tech (stech for short).
+I'm owner of normal.css. (I'm also planning to contribute to normalize.css)
+
+Fun fact: Most of my work is not based on other projects; their my own code1
 <!--
 **softorangetech200/softorangetech200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
